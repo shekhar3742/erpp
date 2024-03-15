@@ -1,0 +1,38 @@
+export const Productdb =[
+    {
+        id:1,
+        name:"Apple",
+        category:"Fruit",
+        stock:20,
+        price:40
+    },
+    {
+        id:2,
+        name:"Banana",
+        category:"Fruit",
+        stock:80,
+        price:40
+    },
+    {
+        id:3,
+        name:"Mango",
+        category:"Fruit",
+        stock:30,
+        price:60
+    },
+    {
+        id:4,
+        name:"Orange",
+        category:"Fruit",
+        stock:10,
+        price:50
+    },
+    {
+        id:5,
+        name:"Guava",
+        category:"Fruit",
+        stock:10,
+        price:90
+    },
+
+]
